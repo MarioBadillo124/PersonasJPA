@@ -1,0 +1,18 @@
+# Maven
+target/
+
+# NetBeans
+nbproject/private/
+nbbuild/
+nbdist/
+.nb-gradle/
+build/
+!nbproject/build-impl.xml
+!nbproject/genfiles.properties
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
